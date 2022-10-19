@@ -27,10 +27,12 @@ export function Post() {
           fiz no Ignite, evento da Rocketseat
         </p>
         <p>
-          <a href="#">italo.designer/ignite</a>
+          <a href="#">-> {' '}italo.designer/ignite</a>
         </p>
         <p>
-          <a href="#">#novoprojeto #ignite #rocketseat</a>
+          <a href="#">#novoprojeto</a>{' '} 
+          <a href="#">#ignite</a>{' '}  
+          <a href="#">#rocketseat</a>
         </p>
       </div>
     </article>

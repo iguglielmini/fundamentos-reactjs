@@ -1,3 +1,6 @@
+import React from 'react'
+
+import { Post } from './components/Post/Post';
 import { Header } from "./components/Header/Header";
 import { SideBar } from "./components/Sidebar/SideBar";
 
@@ -11,7 +14,7 @@ function App() {
       <div className={styles.wrapper}>
         <SideBar />
         <main>
-          teste
+          <Post />
         </main>
       </div>
     </div>
